@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gvkumarreddy
 - 👀 I’m interested in Fullstack development using Node JS and .Net
-- 🌱 I’m currently learning Sveltekit and developing web applications using Angular/React and Sveltekit
+- 🌱 I’m currently developing web applications using Angular/React and Sveltekit
 - 💞️ I’m currently developing zoom like video conferencing solution using Jitsi
 - 🌱 Developed printing solutions using Raspberry Pi by avoiding full blown computers
 - 🌱 Print soltions for small restaurents, saloons, and grocery stores. We can print receipts, barcode labels, QR Codes etc. without needing a computer
